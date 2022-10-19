@@ -1,14 +1,38 @@
 <!--
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
+# Hello there 👋
+My name is Luca im live in germany and will finish secondary school in July 2023. I have been teaching myself programming since 2018, mostly in C++ but also C, C#, Javascript, Typescript, .NET Core, HTML and CSS.  
+ 
 
 
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
+
+## 🧰 Languages and Tools:
+
+<p align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"> 
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"> 
 
-<![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"> 
 
+
+</p>
+
+
+## 📈 Stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Random-typ&show_icons=true&theme=dracula)
 
+![](https://raw.githubusercontent.com/Random-typ/github-stats-transparent/output/generated/languages.svg)
+
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 -->
