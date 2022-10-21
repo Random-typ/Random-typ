@@ -1,4 +1,4 @@
-<!---->
+<!--
 # Hello there 👋
 My name is Luca im live in germany and will finish secondary school in July 2023. I have been teaching myself programming since 2018, mostly in C++ but also C, C#, Javascript, Typescript, .NET Core, HTML and CSS.  
  
