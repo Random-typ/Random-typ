@@ -1,4 +1,4 @@
-<!--
+<!---->
 # Hello there 👋
 My name is Luca im live in germany and will finish secondary school in July 2023. I have been teaching myself programming since 2018, mostly in C++ but also C, C#, Javascript, Typescript, .NET Core, HTML and CSS.  
  
@@ -34,5 +34,6 @@ My name is Luca im live in germany and will finish secondary school in July 2023
 
 ![](https://raw.githubusercontent.com/Random-typ/github-stats-transparent/output/generated/languages.svg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+![Visits Badge](https://komarev.com/ghpvc/?username=Random-typ&&style=flat-square)
+
 -->
