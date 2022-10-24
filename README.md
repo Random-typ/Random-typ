@@ -12,19 +12,20 @@ Hier text von wegen repos und so was für Projekte und sprachen.
 ## 🧰 Languages and Tools:
 
 <p align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"> 
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" >   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"> 
-
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"> 
 
-
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"> 
-
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"> 
 
@@ -33,11 +34,32 @@ Hier text von wegen repos und so was für Projekte und sprachen.
   
   
 ## 📈 Stats:
+<div style="display: grid;grid-template-columns: repeat(2, 3px);grid-template-rows: 1fr;grid-column-gap: 0px;grid-row-gap: 0px;">
+a
+b
+<div style="grid-area: 1 / 1 / 2 / 2;">
+a
+</div>
+<div style="grid-area: 1 / 2 / 2 / 3;">
+b
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Random-typ&show_icons=true&theme=dracula)
+</div>
 
-![](https://raw.githubusercontent.com/Random-typ/github-stats-transparent/output/generated/languages.svg)
+<div> 
 
-![Visits Badge](https://komarev.com/ghpvc/?username=Random-typ&&style=flat-square)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Random-typ&layout=compact&theme=dracula) </div> <div> ![Stats](https://github-readme-stats.vercel.app/api?username=Random-typ&show_icons=true&theme=dracula) </div>
+
+
+
+
+
+
 
 -->
+<!--
+![Visits Badge](https://komarev.com/ghpvc/?username=Random-typ&&style=flat-square)
+
+
+-->
+
